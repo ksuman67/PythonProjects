@@ -1,3 +1,3 @@
 # PythonProjects
 <br>
-Author -> Suman Kundu
+Author - Suman Kundu
